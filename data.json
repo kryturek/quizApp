@@ -1,0 +1,1555 @@
+{
+	"questions": [
+		{
+			"question": "What is the traditional clothing worn by men in Japan?",
+			"answers": [
+				{ "text": "Sarong", "correct": false },
+				{ "text": "Kimono", "correct": true },
+				{ "text": "Dashiki", "correct": false },
+				{ "text": "Abaya", "correct": false }
+			],
+			"category": "cultures"
+		},
+		{
+			"question": "Which country is the birthplace of the tango?",
+			"answers": [
+				{ "text": "Argentina", "correct": true },
+				{ "text": "Brazil", "correct": false },
+				{ "text": "Uruguay", "correct": true },
+				{ "text": "Colombia", "correct": false }
+			],
+			"category": "cultures"
+		},
+		{
+			"question": "Which countries are the two main producers of coffee?",
+			"answers": [
+				{ "text": "Colombia and Ethiopia", "correct": true },
+				{ "text": "Brazil and Vietnam", "correct": true },
+				{ "text": "India and Kenya", "correct": false },
+				{ "text": "Jamaica and Hawaii", "correct": false }
+			],
+			"category": "cultures"
+		},
+		{
+			"question": "Which is the traditional instrument of the Chinese orchestra?",
+			"answers": [
+				{ "text": "Harp", "correct": false },
+				{ "text": "Piano", "correct": false },
+				{ "text": "Erhu", "correct": true },
+				{ "text": "Clarinet", "correct": false }
+			],
+			"category": "cultures"
+		},
+		{
+			"question": "Which country is famous for the production of chocolate?",
+			"answers": [
+				{ "text": "Switzerland", "correct": true },
+				{ "text": "Belgium", "correct": true },
+				{ "text": "France", "correct": false },
+				{ "text": "Germany", "correct": false }
+			],
+			"category": "cultures"
+		},
+		{
+			"question": "Which is the traditional instrument of the Mexican mariachi?",
+			"answers": [
+				{ "text": "Guitar", "correct": true },
+				{ "text": "Violin", "correct": false },
+				{ "text": "Trumpet", "correct": false },
+				{ "text": "Drums", "correct": false }
+			],
+			"category": "cultures"
+		},
+		{
+			"question": "What is the traditional dress of Indian women?",
+			"answers": [
+				{ "text": "Sari", "correct": true },
+				{ "text": "Kimono", "correct": false },
+				{ "text": "Qipao", "correct": false },
+				{ "text": "Abaya", "correct": false }
+			],
+			"category": "cultures"
+		},
+		{
+			"question": "Which country is famous for the production of wine?",
+			"answers": [
+				{ "text": "Italy", "correct": true },
+				{ "text": "France", "correct": true },
+				{ "text": "Spain", "correct": true },
+				{ "text": "Germany", "correct": false }
+			],
+			"category": "cultures"
+		},
+		{
+			"question": "What is the capital of Ireland?",
+			"answers": [
+				{ "text": "Berlin", "correct": false },
+				{ "text": "Dublin", "correct": true },
+				{ "text": "Portugal", "correct": false },
+				{ "text": "Madrid", "correct": false }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "What is the world’s oldest desert?",
+			"answers": [
+				{ "text": "Namibia", "correct": false },
+				{ "text": "Sahara", "correct": true },
+				{ "text": "Gobi", "correct": false },
+				{ "text": "Thar", "correct": false }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "Where can you find ‘Aphrodite’s Rock’?",
+			"answers": [
+				{ "text": "Greece", "correct": false },
+				{ "text": "Egypt", "correct": false },
+				{ "text": "Cambodia", "correct": false },
+				{ "text": "Cyprus", "correct": true }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "What continent contains most fresh water?",
+			"answers": [
+				{ "text": "Africa", "correct": false },
+				{ "text": "Europe", "correct": false },
+				{ "text": "South Africa", "correct": false },
+				{ "text": "Antarctica", "correct": true }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "What is the official language of Guyana?",
+			"answers": [
+				{ "text": "French", "correct": false },
+				{ "text": "Guyanan", "correct": false },
+				{ "text": "English", "correct": true },
+				{ "text": "Mexican", "correct": false }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "What is Peru’s capital?",
+			"answers": [
+				{ "text": "Lima", "correct": true },
+				{ "text": "Colombia", "correct": false },
+				{ "text": "Tirane", "correct": false },
+				{ "text": "Barcelona", "correct": false }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "The Bunya Pine tree is native to which country?",
+			"answers": [
+				{ "text": "Canada", "correct": false },
+				{ "text": "Argentina", "correct": false },
+				{ "text": "Australia", "correct": true },
+				{ "text": "Austria", "correct": false }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "What colour is the cross on the Swedish Flag?",
+			"answers": [
+				{ "text": "Pink", "correct": false },
+				{ "text": "White", "correct": true },
+				{ "text": "Blue", "correct": false },
+				{ "text": "Yellow", "correct": false }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "How many countries start with 'F'?",
+			"answers": [
+				{ "text": "20", "correct": false },
+				{ "text": "5", "correct": false },
+				{ "text": "3", "correct": true },
+				{ "text": "10", "correct": false }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "What is the longest river in the world??",
+			"answers": [
+				{ "text": "Clyde", "correct": false },
+				{ "text": "Nile", "correct": true },
+				{ "text": "Seine", "correct": false },
+				{ "text": "Amazon", "correct": false }
+			],
+			"category": "geography"
+		},
+		{
+			"question": "Which members of the band Queen were original members?",
+			"answers": [
+				{
+					"text": "Freddie Mercury, Brian May, Roger Taylor, and John Deacon",
+					"correct": true
+				},
+				{
+					"text": "Freddie Mercury, Brian May, Roger Taylor, and Paul Rodgers",
+					"correct": false
+				},
+				{
+					"text": "Freddie Mercury, Brian May, John Deacon, and Paul Rodgers",
+					"correct": false
+				},
+				{
+					"text": "Freddie Mercury, Roger Taylor, John Deacon, and Paul Rodgers",
+					"correct": false
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Which song is considered the best selling single of all time?",
+			"answers": [
+				{
+					"text": "White Christmas",
+					"correct": false
+				},
+				{
+					"text": "Bohemian Rhapsody",
+					"correct": false
+				},
+				{
+					"text": "Candle in the Wind 1997",
+					"correct": false
+				},
+				{
+					"text": "Shape of You",
+					"correct": true
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Which artist has the most number one albums on the Billboard 200?",
+			"answers": [
+				{
+					"text": "The Beatles",
+					"correct": true
+				},
+				{
+					"text": "Elvis Presley",
+					"correct": false
+				},
+				{
+					"text": "Michael Jackson",
+					"correct": false
+				},
+				{
+					"text": "Madonna",
+					"correct": false
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Which country does the band ABBA hail from?",
+			"answers": [
+				{
+					"text": "Denmark",
+					"correct": false
+				},
+				{
+					"text": "Sweden",
+					"correct": true
+				},
+				{
+					"text": "Norway",
+					"correct": false
+				},
+				{
+					"text": "Finland",
+					"correct": false
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Who wrote the song 'Billie Jean'?",
+			"answers": [
+				{
+					"text": "Michael Jackson",
+					"correct": true
+				},
+				{
+					"text": "Elton John",
+					"correct": false
+				},
+				{
+					"text": "Madonna",
+					"correct": false
+				},
+				{
+					"text": "Stevie Wonder",
+					"correct": false
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Which of these is not a member of the band Queen?",
+			"answers": [
+				{
+					"text": "Brian May",
+					"correct": false
+				},
+				{
+					"text": "John Deacon",
+					"correct": false
+				},
+				{
+					"text": "Freddie Mercury",
+					"correct": false
+				},
+				{
+					"text": "Axl Rose",
+					"correct": true
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "What is the real name of rapper Snoop Dogg?",
+			"answers": [
+				{
+					"text": "Calvin Cordozar Broadus Jr.",
+					"correct": true
+				},
+				{
+					"text": "Snoop Doggy Dogg",
+					"correct": false
+				},
+				{
+					"text": "Snoop Lion",
+					"correct": false
+				},
+				{
+					"text": "Snoop Doggy",
+					"correct": false
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Which of these bands was not formed in Liverpool, England?",
+			"answers": [
+				{
+					"text": "The Beatles",
+					"correct": false
+				},
+				{
+					"text": "The Rolling Stones",
+					"correct": true
+				},
+				{
+					"text": "The Kinks",
+					"correct": false
+				},
+				{
+					"text": "The Who",
+					"correct": false
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "What is the title of the album that features the song 'Stairway to Heaven' by Led Zeppelin?",
+			"answers": [
+				{ "text": "IV", "correct": true },
+				{ "text": "Electric Ladyland", "correct": false },
+				{ "text": "Dark Side of the Moon", "correct": false },
+				{ "text": "The Wall", "correct": false }
+			],
+			"category": "music"
+		},
+		{
+			"question": "Which of the following bands is not considered a part of the 'big four' of thrash metal?",
+			"answers": [
+				{ "text": "Metallica", "correct": false },
+				{ "text": "Anthrax", "correct": false },
+				{ "text": "Slayer", "correct": false },
+				{ "text": "AC/DC", "correct": true }
+			],
+			"category": "music"
+		},
+		{
+			"question": "What is the title of the album that features the song 'Bohemian Rhapsody' by Queen?",
+			"answers": [
+				{ "text": "A Night at the Opera", "correct": true },
+				{ "text": "News of the World", "correct": false },
+				{ "text": "The Game", "correct": false },
+				{ "text": "Sheer Heart Attack", "correct": false }
+			],
+			"category": "music"
+		},
+		{
+			"question": "Which of the following bands was not a part of the 'British Invasion' of the 1960s?",
+			"answers": [
+				{ "text": "The Beatles", "correct": false },
+				{ "text": "The Rolling Stones", "correct": false },
+				{ "text": "The Kinks", "correct": false },
+				{ "text": "Led Zeppelin", "correct": true }
+			],
+			"category": "music"
+		},
+		{
+			"question": "What is the title of the album that features the hit single 'Billie Jean'?",
+			"answers": [
+				{
+					"text": "Thriller",
+					"correct": true
+				},
+				{
+					"text": "Bad",
+					"correct": false
+				},
+				{
+					"text": "Dangerous",
+					"correct": false
+				},
+				{
+					"text": "Off the Wall",
+					"correct": false
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Who wrote and produced the hit song 'I Wanna Dance With Somebody (Who Loves Me)' for Whitney Houston?",
+			"answers": [
+				{
+					"text": "Michael Jackson",
+					"correct": false
+				},
+				{
+					"text": "Babyface",
+					"correct": false
+				},
+				{
+					"text": "Whitney Houston",
+					"correct": false
+				},
+				{
+					"text": "Nelly",
+					"correct": true
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Who wrote the hit song 'Smooth' that was performed by Santana featuring Rob Thomas?",
+			"answers": [
+				{
+					"text": "Rob Thomas",
+					"correct": true
+				},
+				{
+					"text": "Santana",
+					"correct": false
+				},
+				{
+					"text": "Will.i.am",
+					"correct": false
+				},
+				{
+					"text": "Beyoncé",
+					"correct": false
+				}
+			],
+			"category": "music"
+		},
+		{
+			"question": "Which ancient Egyptian pharaoh is known for building the Great Pyramid of Giza?",
+			"answers": [
+				{ "text": "Akhenaten", "correct": false },
+				{ "text": "Ramesses II", "correct": false },
+				{ "text": "Tutankhamun", "correct": false },
+				{ "text": "Khufu", "correct": true }
+			],
+			"category": "history"
+		},
+		{
+			"question": "What was the main cause of the American Civil War?",
+			"answers": [
+				{ "text": "Taxation without representation", "correct": false },
+				{ "text": "Slavery", "correct": true },
+				{ "text": "States' rights", "correct": true },
+				{ "text": "Economic inequality", "correct": false }
+			],
+			"category": "history"
+		},
+		{
+			"question": "What was the name of the treaty that officially ended World War I?",
+			"answers": [
+				{ "text": "Treaty of Versailles", "correct": true },
+				{ "text": "Treaty of Vienna", "correct": false },
+				{ "text": "Treaty of London", "correct": false },
+				{ "text": "Treaty of Paris", "correct": false }
+			],
+			"category": "history"
+		},
+		{
+			"question": "Which ancient civilization is known for inventing paper?",
+			"answers": [
+				{ "text": "Egyptians", "correct": false },
+				{ "text": "Romans", "correct": false },
+				{ "text": "Greeks", "correct": false },
+				{ "text": "Chinese", "correct": true }
+			],
+			"category": "history"
+		},
+		{
+			"question": "What was the main goal of the Manhattan Project?",
+			"answers": [
+				{ "text": "To develop the first atomic bomb", "correct": true },
+				{
+					"text": "To create a new type of energy source",
+					"correct": false
+				},
+				{ "text": "To design a new type of weapon", "correct": false },
+				{ "text": "To study the effects of radiation", "correct": false }
+			],
+			"category": "history"
+		},
+		{
+			"question": "Who was the leader of the Soviet Union during World War II?",
+			"answers": [
+				{ "text": "Joseph Stalin", "correct": true },
+				{ "text": "Adolf Hitler", "correct": false },
+				{ "text": "Benito Mussolini", "correct": false },
+				{ "text": "Winston Churchill", "correct": false }
+			],
+			"category": "history"
+		},
+		{
+			"question": "Who was the leader of the Chinese Communist Party from its founding in 1921 until his death in 1976?",
+			"answers": [
+				{ "text": "Mao Zedong", "correct": true },
+				{ "text": "Deng Xiaoping", "correct": false },
+				{ "text": "Chiang Kai-shek", "correct": false },
+				{ "text": "Jiang Zemin", "correct": false }
+			],
+			"category": "history"
+		},
+		{
+			"question": "Who discovered the New World?",
+			"answers": [
+				{
+					"text": "Christopher Columbus",
+					"correct": true
+				},
+				{
+					"text": "Leif Erikson",
+					"correct": false
+				},
+				{
+					"text": "Marco Polo",
+					"correct": false
+				},
+				{
+					"text": "Ferdinand Magellan",
+					"correct": false
+				}
+			],
+			"category": "history"
+		},
+		{
+			"question": "What was the main cause of World War I?",
+			"answers": [
+				{
+					"text": "Economic competition",
+					"correct": false
+				},
+				{
+					"text": "Colonial disputes",
+					"correct": false
+				},
+				{
+					"text": "Nationalism",
+					"correct": false
+				},
+				{
+					"text": "Assassination of Archduke Franz Ferdinand",
+					"correct": true
+				}
+			],
+			"category": "history"
+		},
+		{
+			"question": "Which emperor united China under the Qin dynasty?",
+			"answers": [
+				{
+					"text": "Genghis Khan",
+					"correct": false
+				},
+				{
+					"text": "Qin Shi Huang",
+					"correct": true
+				},
+				{
+					"text": "Mao Zedong",
+					"correct": false
+				},
+				{
+					"text": "Confucius",
+					"correct": false
+				}
+			],
+			"category": "history"
+		},
+		{
+			"question": "Who was the first person to circumnavigate the globe?",
+			"answers": [
+				{
+					"text": "Ferdinand Magellan",
+					"correct": true
+				},
+				{
+					"text": "Christopher Columbus",
+					"correct": false
+				},
+				{
+					"text": "Marco Polo",
+					"correct": false
+				},
+				{
+					"text": "Vasco da Gama",
+					"correct": false
+				}
+			],
+			"category": "history"
+		},
+		{
+			"question": "Who was the first president of the United States?",
+			"answers": [
+				{
+					"text": "George Washington",
+					"correct": true
+				},
+				{
+					"text": "John Adams",
+					"correct": false
+				},
+				{
+					"text": "Thomas Jefferson",
+					"correct": false
+				},
+				{
+					"text": "James Madison",
+					"correct": false
+				}
+			],
+			"category": "history"
+		},
+		{
+			"question": "What is the chemical symbol for gold?",
+			"answers": [
+				{ "text": "Au", "correct": true },
+				{ "text": "Ag", "correct": false },
+				{ "text": "Fe", "correct": false },
+				{ "text": "Cu", "correct": false }
+			],
+			"category": "science"
+		},
+		{
+			"question": "What is the smallest planet in our solar system?",
+			"answers": [
+				{ "text": "Mercury", "correct": true },
+				{ "text": "Mars", "correct": false },
+				{ "text": "Pluto", "correct": false },
+				{ "text": "Earth", "correct": false }
+			],
+			"category": "science"
+		},
+		{
+			"question": "Which of the following is not one of the four fundamental forces of nature?",
+			"answers": [
+				{ "text": "Gravity", "correct": false },
+				{ "text": "Electromagnetism", "correct": false },
+				{ "text": "Weak Nuclear", "correct": false },
+				{ "text": "Torsion", "correct": true }
+			],
+			"category": "science"
+		},
+		{
+			"question": "What is the most abundant gas in the Earth's atmosphere?",
+			"answers": [
+				{ "text": "Oxygen", "correct": false },
+				{ "text": "Helium", "correct": false },
+				{ "text": "Nitrogen", "correct": true },
+				{ "text": "Carbon Dioxide", "correct": false }
+			],
+			"category": "science"
+		},
+		{
+			"question": "What is the unit of measurement for electric current?",
+			"answers": [
+				{
+					"text": "Watts",
+					"correct": false
+				},
+				{
+					"text": "Amperes",
+					"correct": true
+				},
+				{
+					"text": "Ohms",
+					"correct": false
+				},
+				{
+					"text": "Coulombs",
+					"correct": false
+				}
+			],
+			"category": "science"
+		},
+		{
+			"question": "What is the largest organ in the human body?",
+			"answers": [
+				{
+					"text": "Liver",
+					"correct": true
+				},
+				{
+					"text": "Skin",
+					"correct": false
+				},
+				{
+					"text": "Brain",
+					"correct": false
+				},
+				{
+					"text": "Heart",
+					"correct": false
+				}
+			],
+			"category": "science"
+		},
+		{
+			"question": "What is the study of fossils called?",
+			"answers": [
+				{
+					"text": "Paleontology",
+					"correct": true
+				},
+				{
+					"text": "Archeology",
+					"correct": false
+				},
+				{
+					"text": "Anthropology",
+					"correct": false
+				},
+				{
+					"text": "Geology",
+					"correct": false
+				}
+			],
+			"category": "science"
+		},
+		{
+			"question": "Which is the largest planet in our solar system?",
+			"answers": [
+				{
+					"text": "Jupiter",
+					"correct": true
+				},
+				{
+					"text": "Saturn",
+					"correct": false
+				},
+				{
+					"text": "Uranus",
+					"correct": false
+				},
+				{
+					"text": "Neptune",
+					"correct": false
+				}
+			],
+			"category": "science"
+		},
+		{
+			"question": "Which element is not a noble gas?",
+			"answers": [
+				{
+					"text": "Helium",
+					"correct": false
+				},
+				{
+					"text": "Neon",
+					"correct": false
+				},
+				{
+					"text": "Argon",
+					"correct": false
+				},
+				{
+					"text": "Beryllium",
+					"correct": true
+				}
+			],
+			"category": "science"
+		},
+		{
+			"question": "Which scientist is known as the father of genetics?",
+			"answers": [
+				{
+					"text": "Gregor Mendel",
+					"correct": true
+				},
+				{
+					"text": "Charles Darwin",
+					"correct": false
+				},
+				{
+					"text": "Albert Einstein",
+					"correct": false
+				},
+				{
+					"text": "Isaac Newton",
+					"correct": false
+				}
+			],
+			"category": "science"
+		},
+		{
+			"question": "What is the unit of measurement for electric current?",
+			"answers": [
+				{
+					"text": "Amperes",
+					"correct": true
+				},
+				{
+					"text": "Watts",
+					"correct": false
+				},
+				{
+					"text": "Ohms",
+					"correct": false
+				},
+				{
+					"text": "Volt",
+					"correct": false
+				}
+			],
+			"category": "science"
+		},
+		{
+			"question": "What is the title of William Shakespeare's play about two star-crossed lovers?",
+			"answers": [
+				{
+					"text": "Romeo and Juliet",
+					"correct": true
+				},
+				{
+					"text": "Hamlet",
+					"correct": false
+				},
+				{
+					"text": "Othello",
+					"correct": false
+				},
+				{
+					"text": "Macbeth",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "Who wrote the novel 'The Great Gatsby'?",
+			"answers": [
+				{
+					"text": "Ernest Hemingway",
+					"correct": false
+				},
+				{
+					"text": "F. Scott Fitzgerald",
+					"correct": true
+				},
+				{
+					"text": "John Steinbeck",
+					"correct": false
+				},
+				{
+					"text": "Mark Twain",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "Who wrote the novel 'To Kill a Mockingbird'?",
+			"answers": [
+				{
+					"text": "Harper Lee",
+					"correct": true
+				},
+				{
+					"text": "Mark Twain",
+					"correct": false
+				},
+				{
+					"text": "F. Scott Fitzgerald",
+					"correct": false
+				},
+				{
+					"text": "Ernest Hemingway",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "What is the title of George Orwell's novel about a totalitarian future society?",
+			"answers": [
+				{
+					"text": "1984",
+					"correct": true
+				},
+				{
+					"text": "Animal Farm",
+					"correct": false
+				},
+				{
+					"text": "Brave New World",
+					"correct": false
+				},
+				{
+					"text": "The Handmaid's Tale",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "Who wrote the novel 'The Catcher in the Rye'?",
+			"answers": [
+				{
+					"text": "J.D. Salinger",
+					"correct": true
+				},
+				{
+					"text": "John Steinbeck",
+					"correct": false
+				},
+				{
+					"text": "F. Scott Fitzgerald",
+					"correct": false
+				},
+				{
+					"text": "Ernest Hemingway",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "Who wrote the novel 'One Hundred Years of Solitude'?",
+			"answers": [
+				{
+					"text": "Gabriel Garcia Marquez",
+					"correct": true
+				},
+				{
+					"text": "Jorge Luis Borges",
+					"correct": false
+				},
+				{
+					"text": "Mario Vargas Llosa",
+					"correct": false
+				},
+				{
+					"text": "Juan Rulfo",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "What is the name of the protagonist in George Orwell's '1984'?",
+			"answers": [
+				{
+					"text": "Winston Smith",
+					"correct": true
+				},
+				{
+					"text": "John Smith",
+					"correct": false
+				},
+				{
+					"text": "James Smith",
+					"correct": false
+				},
+				{
+					"text": "David Smith",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "In what year was 'Pride and Prejudice' by Jane Austen first published?",
+			"answers": [
+				{
+					"text": "1813",
+					"correct": true
+				},
+				{
+					"text": "1803",
+					"correct": false
+				},
+				{
+					"text": "1823",
+					"correct": false
+				},
+				{
+					"text": "1833",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "What is the name of the author of 'The Catcher in the Rye'?",
+			"answers": [
+				{
+					"text": "J.D. Salinger",
+					"correct": true
+				},
+				{
+					"text": "Jack Kerouac",
+					"correct": false
+				},
+				{
+					"text": "F. Scott Fitzgerald",
+					"correct": false
+				},
+				{
+					"text": "J.K. Rowling",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "Who wrote the novel 'The Great Gatsby'?",
+			"answers": [
+				{
+					"text": "F. Scott Fitzgerald",
+					"correct": true
+				},
+				{
+					"text": "Ernest Hemingway",
+					"correct": false
+				},
+				{
+					"text": "John Steinbeck",
+					"correct": false
+				},
+				{
+					"text": "William Faulkner",
+					"correct": false
+				}
+			],
+			"category": "literature"
+		},
+		{
+			"question": "What is the name of the river that flows through Paisley?",
+			"answers": [
+				{
+					"text": "Clyde",
+					"correct": true
+				},
+				{
+					"text": "Forth",
+					"correct": false
+				},
+				{
+					"text": "Tay",
+					"correct": false
+				},
+				{
+					"text": "Tweed",
+					"correct": false
+				}
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "In what year was Paisley granted city status?",
+			"answers": [
+				{
+					"text": "1827",
+					"correct": false
+				},
+				{
+					"text": "1912",
+					"correct": false
+				},
+				{
+					"text": "1962",
+					"correct": true
+				},
+				{
+					"text": "2002",
+					"correct": false
+				}
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "Which famous Scottish poet was born in Paisley?",
+			"answers": [
+				{
+					"text": "Robert Burns",
+					"correct": false
+				},
+				{
+					"text": "Robert Louis Stevenson",
+					"correct": false
+				},
+				{
+					"text": "Robert Fergusson",
+					"correct": false
+				},
+				{
+					"text": "Robert Tannahill",
+					"correct": true
+				}
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "What is the name of the museum and art gallery in Paisley that is home to the town's internationally important textile collections?",
+			"answers": [
+				{
+					"text": "Paisley Museum and Art Gallery",
+					"correct": true
+				},
+				{
+					"text": "Smith Art Gallery and Museum",
+					"correct": false
+				},
+				{
+					"text": "Paisley Arts Centre",
+					"correct": false
+				},
+				{
+					"text": "Paisley Heritage Centre",
+					"correct": false
+				}
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "What is the name of the famous Paisley Pattern?",
+			"answers": [
+				{
+					"text": "Paisley Floral",
+					"correct": false
+				},
+				{
+					"text": "Paisley Leaf",
+					"correct": false
+				},
+				{
+					"text": "Paisley Paisley",
+					"correct": false
+				},
+				{
+					"text": "Paisley Teardrop",
+					"correct": true
+				}
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "What famous singer from Paisley wrote the song 'I'm Still Here (Jim's Theme)' for the movie 'Tropic Thunder'?",
+			"answers": [
+				{
+					"text": "Burt Bacharach",
+					"correct": false
+				},
+				{
+					"text": "Rufus Wainwright",
+					"correct": false
+				},
+				{
+					"text": "Lena Horne",
+					"correct": false
+				},
+				{
+					"text": "John Rzeznik",
+					"correct": true
+				}
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "What famous Scottish politician and abolitionist was born in Paisley?",
+			"answers": [
+				{
+					"text": "William Wilberforce",
+					"correct": false
+				},
+				{
+					"text": "Frederick Douglass",
+					"correct": false
+				},
+				{
+					"text": "Harriet Tubman",
+					"correct": false
+				},
+				{
+					"text": "Thomas Clarkson",
+					"correct": true
+				}
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "What is the name of the main public park in Paisley?",
+			"answers": [
+				{
+					"text": "Barshaw Park",
+					"correct": true
+				},
+				{
+					"text": "Seedhill Park",
+					"correct": false
+				},
+				{
+					"text": "Kilnside Park",
+					"correct": false
+				},
+				{
+					"text": "West End Park",
+					"correct": false
+				}
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "What is the name of the historic town center of Paisley?",
+			"answers": [
+				{ "text": "County Square", "correct": false },
+				{ "text": "Abbey Close", "correct": false },
+				{ "text": "Paisley Cross", "correct": true },
+				{ "text": "Sheriff Street", "correct": false }
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "What is the name of the Paisley-based company which, in 1851, became the first in the world to mass-produce a type of thread still used today in textiles and sewing?",
+			"answers": [
+				{ "text": "Coats", "correct": true },
+				{ "text": "J & P Coats", "correct": false },
+				{ "text": "Clark", "correct": false },
+				{ "text": "A. & P. Steven", "correct": false }
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "Which famous Paisley-born footballer played for Scotland, Liverpool, and Celtic?",
+			"answers": [
+				{ "text": "Kenny Dalglish", "correct": true },
+				{ "text": "Denis Law", "correct": false },
+				{ "text": "Jim Baxter", "correct": false },
+				{ "text": "Billy McNeill", "correct": false }
+			],
+			"category": "paisley"
+		},
+		{
+			"question": "What is the only mammal capable of true flight?",
+			"answers": [
+				{
+					"text": "Bat",
+					"correct": true
+				},
+				{
+					"text": "Penguin",
+					"correct": false
+				},
+				{
+					"text": "Flying Squirrel",
+					"correct": false
+				},
+				{
+					"text": "Monkey",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "What is the smallest country by land area in the world?",
+			"answers": [
+				{
+					"text": "Vatican City",
+					"correct": true
+				},
+				{
+					"text": "Monaco",
+					"correct": false
+				},
+				{
+					"text": "Nauru",
+					"correct": false
+				},
+				{
+					"text": "Tuvalu",
+					"correct": false
+				}
+			],
+			"category": "geography"
+		},
+		{
+			"question": "What famous mathematician and physicist was known as the 'Prince of Mathematicians'?",
+			"answers": [
+				{
+					"text": "Isaac Newton",
+					"correct": false
+				},
+				{
+					"text": "Albert Einstein",
+					"correct": false
+				},
+				{
+					"text": "Galileo Galilei",
+					"correct": false
+				},
+				{
+					"text": "Carl Friedrich Gauss",
+					"correct": true
+				}
+			],
+			"category": "science"
+		},
+		{
+			"question": "Which of the following animals is known to be the fastest land animal?",
+			"answers": [
+				{
+					"text": "Puma",
+					"correct": false
+				},
+				{
+					"text": "Cheetah",
+					"correct": true
+				},
+				{
+					"text": "Lion",
+					"correct": false
+				},
+				{
+					"text": "Leopard",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "Which of the following animals is known to be the largest mammal in the world?",
+			"answers": [
+				{
+					"text": "Elephant",
+					"correct": false
+				},
+				{
+					"text": "Hippopotamus",
+					"correct": false
+				},
+				{
+					"text": "Giraffe",
+					"correct": false
+				},
+				{
+					"text": "Blue Whale",
+					"correct": true
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "Which of the following animals is known to be the tallest bird in the world?",
+			"answers": [
+				{
+					"text": "Emu",
+					"correct": false
+				},
+				{
+					"text": "Ostrich",
+					"correct": true
+				},
+				{
+					"text": "Kiwi",
+					"correct": false
+				},
+				{
+					"text": "Cassowary",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "Which of the following animals is known to be the smallest mammal in the world?",
+			"answers": [
+				{
+					"text": "Shrew",
+					"correct": true
+				},
+				{
+					"text": "Mouse",
+					"correct": false
+				},
+				{
+					"text": "Rat",
+					"correct": false
+				},
+				{
+					"text": "Hamster",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "Which of the following animals is known to be the fastest animal in the water?",
+			"answers": [
+				{
+					"text": "Shark",
+					"correct": false
+				},
+				{
+					"text": "Marlin",
+					"correct": false
+				},
+				{
+					"text": "Sailfish",
+					"correct": true
+				},
+				{
+					"text": "Orca",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "What is the largest species of shark?",
+			"answers": [
+				{
+					"text": "Great White Shark",
+					"correct": false
+				},
+				{
+					"text": "Tiger Shark",
+					"correct": false
+				},
+				{
+					"text": "Whale Shark",
+					"correct": true
+				},
+				{
+					"text": "Hammerhead Shark",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "What is the world's fastest land animal?",
+			"answers": [
+				{
+					"text": "Lion",
+					"correct": false
+				},
+				{
+					"text": "Cheetah",
+					"correct": true
+				},
+				{
+					"text": "Gazelle",
+					"correct": false
+				},
+				{
+					"text": "Puma",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "What is the smallest mammal in the world?",
+			"answers": [
+				{
+					"text": "Etruscan Shrew",
+					"correct": true
+				},
+				{
+					"text": "Bumblebee Bat",
+					"correct": false
+				},
+				{
+					"text": "Pygmy Jerboa",
+					"correct": false
+				},
+				{
+					"text": "Kitti's hog-nosed bat",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "What is the national bird of the United States?",
+			"answers": [
+				{
+					"text": "Bald Eagle",
+					"correct": true
+				},
+				{
+					"text": "Peregrine Falcon",
+					"correct": false
+				},
+				{
+					"text": "Featherless Owl",
+					"correct": false
+				},
+				{
+					"text": "Golden Rooster",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		},
+		{
+			"question": "What is the largest land animal currently in existence?",
+			"answers": [
+				{
+					"text": "Giraffe",
+					"correct": false
+				},
+				{
+					"text": "Elephant",
+					"correct": true
+				},
+				{
+					"text": "Hippopotamus",
+					"correct": false
+				},
+				{
+					"text": "Rhinoceros",
+					"correct": false
+				}
+			],
+			"category": "animals"
+		}
+	]
+}
